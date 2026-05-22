@@ -1,0 +1,6 @@
+{
+  "name": "Music Player",
+  "description": "An offline music player with an elegant AMOLED black theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
